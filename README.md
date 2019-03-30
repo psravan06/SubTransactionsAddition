@@ -1,4 +1,4 @@
-# SubTransactionsAddition
+# Adding SubTransactions in Loadrunner
 Adding of sub transactions with oneClick
 
 Command Syntax: java -jar StartSubTransactionTagging.jar  insert -path <<Script Path>>
